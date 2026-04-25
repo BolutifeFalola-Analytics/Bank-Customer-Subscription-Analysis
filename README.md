@@ -40,4 +40,4 @@ This project analyzes customer data to identify factors influencing subscription
 
 ## Author
 Boluwatife Falola  
-- LinkedIn: https://www.linkedin.com/in/falola-boluwatife-b76843244
+
